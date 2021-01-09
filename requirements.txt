@@ -1,0 +1,6 @@
+numpy==1.19.2
+dgl_cu101==0.5.3
+scipy==1.5.2
+torch==1.5.1
+networkx==2.5
+dgl==0.5.3
