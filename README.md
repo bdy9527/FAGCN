@@ -5,7 +5,7 @@ Code of [Beyond Low-frequency Information in Graph Convolutional Networks](http:
 Any suggestion/question is welcome.
 
 # Reference
-If you make advantage of the SDCN model in your research, please cite the following in your manuscript:
+If you make advantage of the FAGCN model in your research, please cite the following in your manuscript:
 
 ```
 @inproceedings{fagcn2021,
